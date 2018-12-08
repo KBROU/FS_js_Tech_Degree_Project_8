@@ -1,0 +1,34 @@
+{
+  "name": "gulp-front-end",
+  "version": "1.0.0",
+  "description": "Front end webiste that uses gulp to build it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KBROU/FS_js_Tech_Degree_Project_8.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Kody Broussard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KBROU/FS_js_Tech_Degree_Project_8/issues"
+  },
+  "homepage": "https://github.com/KBROU/FS_js_Tech_Degree_Project_8#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1"
+  }
+}
